@@ -6,4 +6,4 @@ participant server
     Note right of browser: User writes a note and clicks Save button
 
     browser->>server: POST https://studies.cs.helsinki.fi/exampleapp/new_note
-    Note left of server: Server processes the new note.
+    Note left of server: Server processes the new note
